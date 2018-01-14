@@ -8,7 +8,7 @@ public class  JenkinsLearning {
 	
 	@Test
 	public void jenkinsDemo() {
-		System.out.println("Hello Kumar, Welcome Jenkins..");
+		System.out.println("Hello, Welcome To Jenkins..");
 		
 		WebDriver driver;
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Kumar\\Downloads\\chromedriver_win32\\chromedriver.exe");
